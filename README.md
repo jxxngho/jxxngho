@@ -1,7 +1,7 @@
 ### Hi there 👋
-![jxxngho's github stats](https://github-readme-stats.vercel.app/api?username=jxxngho&show_icons=true&theme=synthwave)
+<!-- ![jxxngho's github stats](https://github-readme-stats.vercel.app/api?username=jxxngho&show_icons=true&theme=synthwave) -->
 
-
+![jxxngho's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jxxngho&&show_icons=true&theme=radical)
 
 <!--
 **jxxngho/jxxngho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
