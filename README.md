@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![jxxngho's github stats](https://github-readme-stats.vercel.app/api?username=jxxngho&show_icons=true&theme=synthwave) -->
 
-![jxxngho's github stats](https://github-readme-stats.vercel.app/api?username=jxxngho&count_private=true&theme=highcontrast)
+![jxxngho's github stats](https://github-readme-stats.vercel.app/api?username=jxxngho&count_private=true&theme=cobalt)
 
 
 <!--
